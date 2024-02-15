@@ -1,2 +1,2 @@
 # Practice
-Learning react
+This reposotory is used to practice react.
